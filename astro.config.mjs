@@ -15,6 +15,7 @@ export default defineConfig({
           "link",
           "identification",
           "construction",
+          "events-alt",
           "education",
           "tools",
           "certificate",
