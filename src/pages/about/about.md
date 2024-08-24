@@ -1,7 +1,7 @@
 ---
 title: about
 name: "Muhammad Fathur Rachman"
-designation: "Software Engineer/Pemilik Usaha/Blogger"
+designation: "Web Developer/Pemilik Usaha/Blogger"
 location: Kabupaten Bekasi, Jawa Barat, Indonesia
 # pronouns: "he/him/el"
 website: "https://mfathurr.github.io/"
