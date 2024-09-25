@@ -29,7 +29,7 @@ export default defineConfig({
           "logo-github",
           "logo-linkedin",
         ],
-        mdi: ["telegram"],
+        mdi: ["telegram", "virtual-meeting"],
       },
     }),
     compress(),

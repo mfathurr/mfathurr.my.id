@@ -11,6 +11,7 @@ const projects = await Astro.glob("../pages/projects/*.md");
 const certificates = await Astro.glob("../pages/certificates/*.md");
 const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
+const vm = await Astro.glob("../pages/virtual-meeting/*.md");
 const cvPDF = "/CV Muhammad Fathur Rachman.pdf";
 ---
 
@@ -163,5 +164,25 @@ const cvPDF = "/CV Muhammad Fathur Rachman.pdf";
         })
       }
     </div>
+  </AccordionLayout>
+
+  <AccordionLayout
+    title={"Virtual Meeting (Sementara)"}
+    icon={"mdi:virtual-meeting"}
+  >
+    {
+      vm.map((item) => {
+        return (
+          <Card
+            title={item.frontmatter.title}
+            timeframe={item.frontmatter.date}
+            location={item.frontmatter.location}
+            description={item.compiledContent()}
+            url={item.frontmatter.url}
+            url_name={item.frontmatter.url_name}
+          />
+        );
+      })
+    }
   </AccordionLayout>
 </div>
