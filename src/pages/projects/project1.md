@@ -1,6 +1,6 @@
 ---
 title: Kalkulator
-url: /projects/kalkulator/index.html
+url: https://dts-intro-to-fe-dev.vercel.app
 tags: ["Javascript Mini Project (Individual)", "HTML", "CSS", "JavaScript"]
 date: 2023
 ---
