@@ -4,7 +4,6 @@ location: Digital Talent Scholarship
 tags:
   [
     "HTML & CSS",
-    "HTML & CSS Project (Team)",
     "Git",
     "Javascript",
     "Javascript Mini Project (Individual)",

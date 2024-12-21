@@ -1,17 +1,22 @@
 ---
-title: Sertifikat Belajar Dasar Pemrograman Web
-location: Dicoding Indonesia
+title: Sertifikat IT Support Google
+location: Coursera
 tags:
   [
-    "HTML",
-    "CSS",
-    "Layout Responsif: Flexbox",
-    "JavaScript Basic dan DOM",
-    "Web Storage",
+    "Dukungan Teknis",
+    "Jaringan Komputer",
+    "Sistem Operasi",
+    "Administrasi Sistem",
+    "Layanan Infrastruktur TI",
+    "Keamanan IT",
   ]
-url: https://www.dicoding.com/certificates/N9ZO47V6YZG5
-date: 2022 - 2025
+url: https://coursera.org/verify/professional-cert/TM4UN79XRBYG
+date: 2022
 ---
 
-Kelas ini membahas tuntas dasar HTML, CSS dan JavaScript sebagai tiga fondasi pembuatan website. Disusun dan diverifikasi oleh tim expert Dicoding, materi yang disajikan terstruktur dan komprehensif.
-Nomor Sertifikat: N9ZO47V6YZG5
+Mereka yang mendapatkan Sertiﬁkat IT Support Profesional Google
+telah menyelesaikan lima materi yang dikembangkan oleh Google, yang
+mencakup penilaian berbasis praktik langsung dan dirancang untuk
+mempersiapkan mereka dalam berbagai posisi pemula di bidang IT
+Support.
+Nomor Sertifikat: TM4UN79XRBYG
