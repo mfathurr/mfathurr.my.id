@@ -1,18 +1,22 @@
 ---
-title: Sertifikat Belajar Dasar Pemrograman JavaScript
-location: Dicoding Indonesia
+title: Sertifikat IT Support Google
+location: Coursera
 tags:
   [
-    "JavaScript Fundamentals",
-    "Data Structure",
-    "Object-Oriented Programming",
-    "Functional Programming",
-    "JavaScript Testing",
+    "Dukungan Teknis",
+    "Jaringan Komputer",
+    "Sistem Operasi",
+    "Administrasi Sistem",
+    "Layanan Infrastruktur TI",
+    "Keamanan IT",
   ]
-url: https://www.dicoding.com/certificates/53XE45M10ZRN
-date: 2023 - 2026
+url: https://coursera.org/verify/professional-cert/TM4UN79XRBYG
+date: 2022
 ---
 
-Kelas ini ditujukan untuk individu yang ingin melangkah menjadi seorang Web Developer/Back-end developer menggunakan teknologi Node.js menggunakan
-standar kompetensi industri yang divalidasi oleh AWS.
-Nomor Sertifikat: 53XE45M10ZRN
+Mereka yang mendapatkan Sertiﬁkat IT Support Profesional Google
+telah menyelesaikan lima materi yang dikembangkan oleh Google, yang
+mencakup penilaian berbasis praktik langsung dan dirancang untuk
+mempersiapkan mereka dalam berbagai posisi pemula di bidang IT
+Support.
+Nomor Sertifikat: TM4UN79XRBYG
